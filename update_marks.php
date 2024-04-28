@@ -1,9 +1,9 @@
 <?php
 
-$servername = "localhost";
-$username = "root";
-$password = "1234";
-$dbname = "project_exhibition";
+$servername = "sql101.infinityfree.com";
+$username = "if0_36446847";
+$password = "qxMDpH1m7pm";
+$dbname = "if0_36446847_project_exhibition";
 $conn = mysqli_connect($servername, $username, $password,$dbname);
 
 // Die if connection was not successful
